@@ -1,1 +1,8 @@
 commit 1
+<<<<<<< HEAD
+=======
+temporary storage
+cherry pick
+ file1 modified file1 modified file1 modified
+cherrypick1
+>>>>>>> ca6d4e5... file1 modified
