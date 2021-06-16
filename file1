@@ -1,9 +1,5 @@
 commit 1
-<<<<<<< HEAD
-=======
 temporary storage
 cherry pick
-<<<<<<< HEAD
->>>>>>> 658796c... file1 modified
-=======
->>>>>>> 658796c... file1 modified
+ file1 modified file1 modified file1 modified
+cherrypick1
